@@ -1,0 +1,28 @@
+{"day": 1,
+"annotations": [
+{"observatory_name": "observatory_1",
+ "frame_longitude": 1,
+ "frame_latitude": 1,
+ "iteration": 60,
+ "border_longitude": [80,240],
+ "border_latitude": [-40,90]},
+ {"observatory_name": "observatory_2",
+ "frame_longitude": 2,
+ "frame_latitude": 2,
+ "iteration": 40,
+ "border_longitude": [240,90],
+ "border_latitude": [-40,90]},
+ {"observatory_name": "observatory_3",
+ "frame_longitude": 1,
+ "frame_latitude": 1,
+ "iteration": 130,
+ "border_longitude": [120,240],
+ "border_latitude": [-70,60]},
+ {"observatory_name": "observatory_4",
+ "frame_longitude": 1,
+ "frame_latitude": 1,
+ "iteration": 100,
+ "border_longitude": [200,20],
+ "border_latitude": [-40,90]}
+]
+}
